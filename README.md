@@ -33,4 +33,5 @@ git push: para enviar o arquivo para o repositório remoto
 [ ] Agenda 2 
 [ ] Agenda 3
 [ ] Twitter
+[X] Motoca
 [X] Pet
