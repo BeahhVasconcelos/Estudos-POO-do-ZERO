@@ -25,10 +25,11 @@ git push: para enviar o arquivo para o repositório remoto
 
 
 
-[ ] Carro
-[ ] CAPITULO 4
-[ ] Motoca
-[ ] Vetores
-[ ] CAPITULO 5
-[ ] Pet
-[ ] Conta
+[X] Carro
+[X] Lapiseira
+[X] PulaPula
+[ ] Tomagochi
+[ ] Junkfood
+[ ] Agenda 2 
+[ ] Agenda 3
+[ ] Twitter
