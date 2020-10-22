@@ -24,14 +24,15 @@ git push -u origin master: Para enviar os arquivos pela primeira vez
 git push: para enviar o arquivo para o repositório remoto
 
 
-
-[X] Carro
-[X] Lapiseira
-[X] PulaPula
-[ ] Tomagochi
-[ ] Junkfood
-[ ] Agenda 2 
-[ ] Agenda 3
-[ ] Twitter
-[X] Motoca
-[X] Pet
+### PROJETOS CONCLUÍDOS
+ - [X] Carro
+ - [X] Lapiseira
+ - [X] PulaPula
+ - [X] Tomagochi
+ - [X] Junkfood
+ - [X] Motoca
+ - [X] Pet
+ - [ ] Agência
+ - [ ] Agenda 2 
+ - [ ] Agenda 3
+ - [ ] Twitter
