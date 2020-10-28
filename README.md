@@ -32,7 +32,8 @@ git push: para enviar o arquivo para o repositório remoto
  - [X] Junkfood
  - [X] Motoca
  - [X] Pet
- - [ ] Agência
- - [ ] Agenda 2 
- - [ ] Agenda 3
+ - [X] Vetores
+ - [X] Agência
+ - [X] Agenda 2 
+ - [X] Agenda 3
  - [ ] Twitter
